@@ -1,0 +1,14 @@
+{
+  "required": "This field is required",
+  "selectShelterRequired": "Please select a shelter",
+  "invalidEmail": "Please enter a valid email address",
+  "invalidPhone": "Please enter a valid phone number",
+  "minAmount": "Please enter an amount of at least 1€",
+  "maxAmount": "Please enter an amount up to 10,000€",
+  "minLength": "Must be at least {{min}} characters",
+  "maxLength": "Must not exceed {{max}} characters",
+  "nameMinLength": "Must be at least 2 characters",
+  "nameMaxLength": "Must not exceed 30 characters",
+  "invalidName": "Name can only contain letters, spaces, hyphens, and apostrophes",
+  "consentRequired": "You must agree to the processing of personal data"
+}

@@ -1,0 +1,14 @@
+{
+  "required": "Toto pole je povinné",
+  "selectShelterRequired": "Prosím vyberte útulok",
+  "invalidEmail": "Zadajte platný e-mail",
+  "invalidPhone": "Zadajte platné telefónne číslo",
+  "minAmount": "Prosím zadajte sumu aspoň 1€",
+  "maxAmount": "Prosím zadajte sumu maximálne 10 000€",
+  "minLength": "Musí obsahovať aspoň {{min}} znakov",
+  "maxLength": "Nesmie presiahnuť {{max}} znakov",
+  "nameMinLength": "Musí obsahovať aspoň 2 znaky",
+  "nameMaxLength": "Nesmie presiahnuť 30 znakov",
+  "invalidName": "Meno môže obsahovať len písmená, medzery, pomlčky a apostrofy",
+  "consentRequired": "Musíte súhlasiť so spracovaním osobných údajov"
+}
